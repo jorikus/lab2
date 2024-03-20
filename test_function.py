@@ -6,7 +6,7 @@ def test_subtract_two_numbers():
     assert subtract_two_numbers(1, 3) == -2
     assert subtract_two_numbers(4.2, 2.1) == 2.1
 
-print(test_subtract_two_numbers())
+
 
 
 
